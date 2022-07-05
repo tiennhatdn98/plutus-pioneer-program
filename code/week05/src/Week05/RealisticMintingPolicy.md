@@ -1,0 +1,1 @@
+The idea is to instead allow everybody to mint and burn to tie minting and burning to the owner of a specified public key hash. To instead of having an unparameterized minting policy, I want to turn that into a parameterized one. Where the parameter is a payment pub key hash and then the logic should be that minting and burning
